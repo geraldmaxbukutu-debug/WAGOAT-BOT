@@ -58,5 +58,5 @@
     "enable": true,
     "notes": "if true, bot will auto-check and install updates from GitHub on every startup"
   },
-  "supportGroupID": ""
+  "supportGroupID": "120363431798521398"
 }
